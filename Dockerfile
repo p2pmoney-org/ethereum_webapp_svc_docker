@@ -7,7 +7,7 @@ MAINTAINER P2PMoney <p2pmoney@p2pventure.org>
 # replace master by the tag of the corresponding
 # release (e.g. 0.11.0) then build image with
 # a specific tag (e.g. "docker build -t p2pmoney/ethereum_webapp_svc:0.11.0")
-ARG ethereum_webapp_tag=0.40.28
+ARG ethereum_webapp_tag=0.40.29
 
 ARG user_id=1000
 
